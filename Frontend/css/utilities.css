@@ -1,0 +1,50 @@
+.max-width {
+  max-width: 144rem;
+  margin: 0 auto;
+}
+
+.header-primary {
+  font-size: 3rem;
+}
+
+.header-secondary {
+  font-size: 2rem;
+  color: var(--header-color);
+}
+
+.text-primary {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  font-weight: 500;
+}
+
+/* Body font family */
+.bd_f {
+  font-family: "Ubuntu", sans-serif;
+}
+
+/* Header font family */
+.h_f {
+  font-family: "Overpass", sans-serif;
+}
+/* CURSOR POINTER */
+.c_p {
+  cursor: pointer;
+}
+/* DISPLAY FLEX */
+.d_f {
+  display: flex;
+}
+/* ALIGN ITEMS CENTER */
+.ai_c {
+  align-items: center;
+}
+/* JUSTIFY CONTENT CENTER */
+.jc_c {
+  justify-content: center;
+}
+
+/* FLEX DIRECTION COLUMN */
+.fd_c {
+  flex-direction: column;
+}
